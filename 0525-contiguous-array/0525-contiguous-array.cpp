@@ -2,16 +2,15 @@ class Solution {
 public:
     int findMaxLength(vector<int>& nums) {
         //replace all 0s with -1
-        for(int i=0;i<nums.size();i++){
-            if(nums[i]==0) nums[i]=-1;
-        }
         //now question becomes: find max len of subarray whose sum is 0
         unordered_map<int,int>mp;
         mp[0]=-1;
         int sum=0;
         int maxLen=0;
         for(int i=0;i<nums.size();i++){
-            sum+=nums[i];
+            if(nums[i]==0) sum+=-1;
+            else sum+=1;
+            
             if(mp.find(sum)!=mp.end()){
                 maxLen=max(maxLen,i-mp[sum]);
             }
