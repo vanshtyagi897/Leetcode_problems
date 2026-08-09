@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0877-stone-game](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0877-stone-game/) | Medium |
+| [2235-add-two-integers](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2235-add-two-integers/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Dynamic Programming
