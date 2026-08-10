@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0877-stone-game](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0877-stone-game/) | Medium |
 | [2235-add-two-integers](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2235-add-two-integers/) | Easy |
@@ -83,4 +84,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0412-fizz-buzz/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
