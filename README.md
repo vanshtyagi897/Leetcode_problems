@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0525-contiguous-array/) | Medium |
 | [0877-stone-game](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0877-stone-game/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1314-matrix-block-sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1314-matrix-block-sum/) | Medium |
 | [1929-concatenation-of-array](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
