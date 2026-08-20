@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0392-is-subsequence](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0392-is-subsequence/) | Easy |
 | [0877-stone-game](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0877-stone-game/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0392-is-subsequence](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0412-fizz-buzz/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Simulation
@@ -105,4 +107,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
