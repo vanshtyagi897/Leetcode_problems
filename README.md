@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0525-contiguous-array/) | Medium |
+| [0567-permutation-in-string](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0412-fizz-buzz/) | Easy |
+| [0567-permutation-in-string](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0567-permutation-in-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -106,9 +108,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0567-permutation-in-string](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0567-permutation-in-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0392-is-subsequence/) | Easy |
+| [0567-permutation-in-string](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
