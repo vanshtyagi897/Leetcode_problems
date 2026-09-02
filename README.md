@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1314-matrix-block-sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1314-matrix-block-sum/) | Medium |
 | [1929-concatenation-of-array](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2235-add-two-integers](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2235-add-two-integers/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
