@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2235-add-two-integers](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2235-add-two-integers/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3870-count-commas-in-range](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
