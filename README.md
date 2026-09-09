@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1314-matrix-block-sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1314-matrix-block-sum/) | Medium |
 | [1929-concatenation-of-array](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1929-concatenation-of-array/) | Easy |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0525-contiguous-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Pigeonhole Principle
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0567-permutation-in-string/) | Medium |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
