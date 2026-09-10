@@ -2,7 +2,7 @@ class Solution {
 public:
     int findShortestSubArray(vector<int>& nums) {
         int n=nums.size();
-        unordered_map<int,int>firstidx, lastidx, count; //3 maps to store first freq, last freq and freq of each elem
+        unordered_map<int,int>firstidx, lastidx, count; // maps to store first occurrence, last occurrence, and frequency of each element
         for(int i=0;i<n;i++){
             if(firstidx.find(nums[i])==firstidx.end()) firstidx[nums[i]]=i; //first occ of each elem
             lastidx[nums[i]]=i; //last occurence of each elem
