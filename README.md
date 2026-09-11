@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1291-sequential-digits/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,4 +149,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0496-next-greater-element-i/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
