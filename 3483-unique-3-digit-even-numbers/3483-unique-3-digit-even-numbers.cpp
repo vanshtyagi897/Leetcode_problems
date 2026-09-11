@@ -2,17 +2,33 @@ class Solution {
 public:
     int totalNumbers(vector<int>& digits) {
         int n = digits.size();
-        set<int>st;
-        for(int i=0; i<n;i++){
-            for(int j=0;j<n;j++){
-                for(int k=0;k<n;k++){
-                    if(digits[i]!=0 && i!=j && j!=k && i!=k && digits[k]%2==0){
-                        int num = 100*digits[i] + 10*digits[j] + digits[k];
-                        st.insert(num);
-                    }
+        int freq[10]={};
+        for(int x : digits) freq[x]++;
+
+        int ans=0;
+        for(int num = 100; num<=999; num+=2){
+            int a = num/100;
+            int b= (num/10)%10;
+            int c = num%10;
+
+            int need[10]={};
+            need[a]++;
+            need[b]++;
+            need[c]++;
+
+            bool possible = true;
+            for(int d=0; d<=9;d++){
+                if(need[d]>freq[d]){
+                    possible = false;
+                    break;
                 }
             }
+            if(possible){
+                ans++;
+            }
         }
-        return st.size();
+        return ans;
+        
+        
     }
 };
