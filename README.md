@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0014-longest-common-prefix](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0053-maximum-subarray](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0078-subsets](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0078-subsets/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0392-is-subsequence](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0567-permutation-in-string](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0567-permutation-in-string/) | Medium |
@@ -153,4 +155,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
