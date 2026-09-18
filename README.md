@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0697-degree-of-an-array](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0697-degree-of-an-array/) | Easy |
 | [0877-stone-game](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0877-stone-game/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1089-duplicate-zeros](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1089-duplicate-zeros/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1314-matrix-block-sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1314-matrix-block-sum/) | Medium |
 | [1929-concatenation-of-array](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1929-concatenation-of-array/) | Easy |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0567-permutation-in-string/) | Medium |
+| [1089-duplicate-zeros](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1089-duplicate-zeros/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
