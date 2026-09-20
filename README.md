@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0414-third-maximum-number](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0525-contiguous-array/) | Medium |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0414-third-maximum-number](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0414-third-maximum-number/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
