@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0226-invert-binary-tree/) | Easy |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0226-invert-binary-tree/) | Easy |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0226-invert-binary-tree/) | Easy |
