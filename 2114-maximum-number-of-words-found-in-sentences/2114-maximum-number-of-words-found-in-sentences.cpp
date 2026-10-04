@@ -5,7 +5,7 @@ public:
         for(int i=0;i<sentences.size();i++){
             int count=0;
             string s=sentences[i];
-            for(int j=0;j<s.length();j++){
+            for(int j=0;j<s.size();j++){
 
                 if(s[j]==' ') count++;
             }
