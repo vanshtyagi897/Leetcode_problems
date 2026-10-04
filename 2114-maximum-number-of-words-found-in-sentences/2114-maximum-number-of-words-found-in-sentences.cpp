@@ -9,8 +9,8 @@ public:
 
                 if(s[j]==' ') count++;
             }
-            maxCount=max(maxCount,count);
+            maxCount=max(maxCount,count+1);
         }
-        return maxCount+1;
+        return maxCount;
     }
 };
