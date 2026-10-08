@@ -8,18 +8,15 @@ public:
     int maxVowels(string s, int k) {
         int l=0,r=0;
         int count=0;
-        int len=0;
         int maxCount=0;
         while(r<s.size()){    
             if(isvowel(s[r])) count++;
-            len++;
 
-            if(len>k){
+            if(r-l+1>k){
                 if(isvowel(s[l])) count--;
-                len--;
                 l++;
             }
-            if(len==k){
+            if(r-l+1==k){
                 maxCount=max(maxCount,count);
             }
 
