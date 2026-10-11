@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1291-sequential-digits/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Sorting
