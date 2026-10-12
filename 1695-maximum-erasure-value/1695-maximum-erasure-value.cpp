@@ -7,8 +7,6 @@ public:
         int l=0,r=0;
         unordered_set<int>st;
         while(r<n){
-             sum+=nums[r];
-
             while( st.count(nums[r]) ){
                 st.erase(nums[l]);  
                 sum-=nums[l];
@@ -16,6 +14,7 @@ public:
             }
           
             st.insert(nums[r]);
+            sum+=nums[r];
             maxSum=max(maxSum, sum);
             r++;
         }
