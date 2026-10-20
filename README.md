@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
+| [0647-palindromic-substrings](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [0877-stone-game](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0877-stone-game/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Game Theory
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0567-permutation-in-string](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0567-permutation-in-string/) | Medium |
+| [0647-palindromic-substrings](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0392-is-subsequence](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0567-permutation-in-string/) | Medium |
+| [0647-palindromic-substrings](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [1089-duplicate-zeros](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1089-duplicate-zeros/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
