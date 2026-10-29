@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1089-duplicate-zeros](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1089-duplicate-zeros/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1314-matrix-block-sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1314-matrix-block-sum/) | Medium |
+| [1470-shuffle-the-array](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1470-shuffle-the-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1695-maximum-erasure-value/) | Medium |
