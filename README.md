@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0414-third-maximum-number](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0525-contiguous-array/) | Medium |
