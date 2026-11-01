@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1929-concatenation-of-array](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Heap (Priority Queue)
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -309,4 +312,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1143-longest-common-subsequence/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
