@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0018-4sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0055-jump-game/) | Medium |
 | [0078-subsets](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0078-subsets/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0435-non-overlapping-intervals/) | Medium |
