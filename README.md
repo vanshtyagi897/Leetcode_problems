@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1037-valid-boomerang](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1037-valid-boomerang/) | Easy |
 | [1089-duplicate-zeros](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1089-duplicate-zeros/) | Easy |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1314-matrix-block-sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1314-matrix-block-sum/) | Medium |
 | [1470-shuffle-the-array](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1470-shuffle-the-array/) | Easy |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0877-stone-game](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0877-stone-game/) | Medium |
 | [1037-valid-boomerang](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1037-valid-boomerang/) | Easy |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [2235-add-two-integers](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2235-add-two-integers/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -296,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Counting
