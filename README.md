@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0018-4sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0392-is-subsequence](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0567-permutation-in-string/) | Medium |
@@ -328,4 +329,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 <!---LeetCode Topics End-->
