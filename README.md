@@ -333,4 +333,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0328-odd-even-linked-list/) | Medium |
 <!---LeetCode Topics End-->
