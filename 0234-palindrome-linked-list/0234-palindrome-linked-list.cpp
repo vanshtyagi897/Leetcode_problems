@@ -10,18 +10,35 @@
  */
 class Solution {
 public:
-    bool isPalindrome(ListNode* head) {
-        vector<int>nums;
-        ListNode* temp = head;
-        while(temp!=NULL){
-            nums.push_back(temp->val);
-            temp=temp->next;
+    ListNode* reverseLL(ListNode* head){
+        ListNode* curr, *prev;
+        curr=head;
+        prev=NULL;
+        while(curr){
+            ListNode* nextNode=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=nextNode;
         }
-        int l=0, r=nums.size()-1;
-        while(l<r){
-            if(nums[l]!=nums[r]) return false;
-            l++;
-            r--;
+        return prev;
+    }
+    bool isPalindrome(ListNode* head) {
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while(fast->next!=NULL && fast->next->next!=NULL){
+            slow=slow->next;
+            fast=fast->next->next;
+        }
+        //slow is the mid of L.L
+        ListNode *newHead = reverseLL(slow->next); //reverse LL from mid to end
+
+        ListNode* first = head;
+        ListNode* second = newHead;
+        while(second){
+            if(first->val!=second->val) return false;
+            first=first->next;
+            second=second->next;
         }
         return true;
 
