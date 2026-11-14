@@ -36,10 +36,14 @@ public:
         ListNode* first = head;
         ListNode* second = newHead;
         while(second){
-            if(first->val!=second->val) return false;
+            if(first->val!=second->val){ 
+                reverseLL(newHead);//Good practice (no need though)
+                return false;
+            }
             first=first->next;
             second=second->next;
         }
+        reverseLL(newHead); // no need here, but good practice to give list as it was
         return true;
 
     }
