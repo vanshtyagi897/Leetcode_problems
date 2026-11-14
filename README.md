@@ -248,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0148-sort-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0148-sort-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Merge Sort
