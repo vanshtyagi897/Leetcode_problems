@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1291-sequential-digits/) | Medium |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1796-second-largest-digit-in-a-string](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
