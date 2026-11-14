@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [1089-duplicate-zeros](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1089-duplicate-zeros/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
