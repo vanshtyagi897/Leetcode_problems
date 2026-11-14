@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [1089-duplicate-zeros](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1089-duplicate-zeros/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0328-odd-even-linked-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
