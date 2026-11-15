@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0024-swap-nodes-in-pairs](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0148-sort-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0206-reverse-linked-list/) | Easy |
