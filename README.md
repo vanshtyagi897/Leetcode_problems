@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1470-shuffle-the-array](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1470-shuffle-the-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1314-matrix-block-sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1314-matrix-block-sum/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
