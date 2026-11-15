@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0148-sort-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0392-is-subsequence](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0392-is-subsequence/) | Easy |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0148-sort-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vanshtyagi897/Leetcode_problems/tree/main/0234-palindrome-linked-list/) | Easy |
